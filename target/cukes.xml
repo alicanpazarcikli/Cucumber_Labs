@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="9.247">
+<testcase classname="Functional testing on Orange HRM" name="Adding a new employee -third way" time="9.108">
+<system-out><![CDATA[Given The user wants to go to OrangeHRM Website.............................passed
+When Thee user wants to enter username and password.........................passed
+Then The user wants to click on Login button................................passed
+And The user wants to verify that browser landed on "Dashboard".............passed
+Then The user wants to click on PIM module..................................passed
+Then The user wants to add employee's first and last name as following list.passed
+Then The user wants to add login details in a list way......................passed
+Then The user wants to save the information.................................passed
+Then The user should be able to see "Personal Details"......................passed
+]]></system-out>
+</testcase>
+</testsuite>

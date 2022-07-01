@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="3" time="0.399">
+<testcase classname="Insurance Page Scenarios" name="Get Quote Link" time="0.032">
+<system-out><![CDATA[Given I am on Herokuapp Insurance Page......................................passed
+When I click on Get Quote button............................................passed
+Then I navigate to application form.........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Insurance Page Scenarios" name="Finance Details link" time="0.002">
+<system-out><![CDATA[Given I am on Herokuapp Insurance Page......................................passed
+When I click on Finance Details.............................................passed
+Then I validate only one option.............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Insurance Page Scenarios" name="Let us call you button" time="0.003">
+<system-out><![CDATA[Given I am on Herokuapp Insurance Page......................................passed
+When I complete the application.............................................passed
+And I click on submit button................................................passed
+Then I verify Let us call you button........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
